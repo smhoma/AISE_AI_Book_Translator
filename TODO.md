@@ -1,0 +1,3 @@
+- Add support for other input file formats than pdf, like txt, epub, html, doc, docx
+- create entry point for content aware file formats like the ones above, and also pdfs that their text can be extracted directly and does not need OCR for text extraction.
+- Add feature to recognize pictures in content-aware files and add them to an appropriate place in the final translation file.
